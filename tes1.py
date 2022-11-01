@@ -12,13 +12,13 @@ print(9, 10**9)
 print(10, 10**10)
 
 # penggunaan end
-print ('a', end='')
-print ('b', end='')
-print ('c', end='')
+print ('l', end='')
+print ('i', end='')
+print ('m', end='')
 print()
-print('x')
-print('y')
-print('z')
+print('l')
+print('i')
+print('m')
 
 # penggunaan separator
 w, x, y, z = 10,15,20,25
